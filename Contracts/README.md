@@ -4,7 +4,7 @@
 Try running some of the following tasks:
 
 ```shell
-npx hardhat accounts --network dchain_t
+npx hardhat accounts --network base_t
 npx hardhat compile
 npx hardhat help
 npx hardhat test
